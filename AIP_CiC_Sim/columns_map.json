@@ -1,0 +1,14 @@
+{
+  "clickH": "clickColH",
+  "clickS": "clickColS",
+  "clickL": "clickColL",
+  "clickStatus": "clickStatus",
+  "alt1H": "alt1ColH",
+  "alt1S": "alt1ColS",
+  "alt1L": "alt1ColL",
+  "alt1Status": "alt1Status",
+  "alt2H": "alt2ColH",
+  "alt2S": "alt2ColS",
+  "alt2L": "alt2ColL",
+  "alt2Status": "alt2Status"
+}
